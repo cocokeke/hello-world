@@ -11,5 +11,6 @@ int main()
 	{
 		cout << val << endl;
 	}
+	cout << "add new content." << endl;
 	return 0;
 }

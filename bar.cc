@@ -11,6 +11,7 @@ int main()
 	{
 		cout << val << endl;
 	}
-	cout << "add new content." << endl;
+	// cout << "add new content." << endl;
+	// in branch zhaoj, add this line
 	return 0;
 }
